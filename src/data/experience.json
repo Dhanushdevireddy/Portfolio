@@ -1,0 +1,14 @@
+[
+  {
+    "Role": "Back End Developer Intern",
+    "Tenure": "May 2024 - Aug 2024",
+    "Company": "Dvara Solutions, Bengaluru, Karnataka",
+    "Points": [
+      "Developed and deployed APIs using FastAPI, integrating with Gupshup for improved user interaction.",
+      "Utilized GPT-3.5 Turbo, GPT-4, and Mistral models to implement NLP in backend systems.",
+      "Managed Jenkins and Docker pipelines to streamline integration, testing, and deployment of backend solutions.",
+      "Utilized PostgreSQL for database management, including data handling and query execution.",
+      "Enhanced frontend pages to optimize user experience and ensure seamless backend integration."
+    ]
+  }
+]

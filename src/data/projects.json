@@ -1,0 +1,12 @@
+[
+    {
+        "name":"Task Tracker App",
+        "link":"https://github.com/Dhanushdevireddy/Task_Tracker",
+        "description":"A task management app built with the MERN stack. It allows users to create, update, delete, and track tasks, providing a streamlined way to organize daily to-dos and monitor progress."
+    },
+    {
+        "name":"Lost and Found Portal",
+        "link":"https://github.com/Dhanushdevireddy/Lost-and-Found-Portal",
+        "description":"A web portal developed using the MERN stack that helps users report and search for lost or found items. It simplifies item recovery by allowing users to post details and connect with others for claims."
+    }
+]
